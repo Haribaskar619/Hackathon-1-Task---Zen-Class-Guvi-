@@ -1,0 +1,88 @@
+.rowupper{
+    background-image: linear-gradient(to right top, #5ddc8e, #00cfcf, #00b8ff, #008dff, #c512eb);
+    color:  rgb(241 223 8);
+    height: 80px;
+    text-align: center;
+    padding-top: 10px;
+}
+.searchrow{
+    background-image: linear-gradient(to right top, #f0f4d8, #ebebc4, #e9e1af, #e8d79b, #e9cc88);
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.inputbox{
+    padding-top: 10px;
+    margin-left: 25px;
+    margin-right: 30px;
+}
+.card{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+ }
+ .card-header{
+    background-image: linear-gradient(to right top, #3123c2, #005ddb, #0078c6, #008a9e, #00987f, #00a470, #30af57, #5ab732, #7bc32b, #9ace23, #bad91c, #dbe317);
+     color: whitesmoke;
+     text-align: center;
+     border-radius: 5px;
+     font-family: 'Saira Condensed', sans-serif;
+     justify-content: center;
+ }
+ .card-body{
+    text-align: center;
+    text-indent: 5px;
+    line-height: 12px;
+    background-image: linear-gradient(to right top, #c2a0f8, #d19cec, #dc99e0, #e497d4, #ea96c8, #f793b5, #fe93a0, #fe978c, #f4a36a, #d8b455, #aac558, #66d379);
+    color: black;
+    font-family: 'Saira Condensed', sans-serif;  
+ }
+ .btn.btn-primary{
+     align-items: center;
+     background-color: none;
+     color: white;
+     font-family: 'Saira Condensed', sans-serif;
+ }
+.card{
+    margin-bottom: 25px;
+ }
+ .card-title1{
+     margin-top: 10px;
+ }
+ h1{
+     color: white;
+ }
+ .col-sm-6.col-md-4.col-lg-4.col-xl-4{
+     margin-bottom: 20px;
+ }
+body{
+     background-color: rgb(187, 187, 187)
+ }
+ .no-records-msg{
+    align-content: center;
+    font-weight: 200;
+    color: rgb(226, 99, 8);
+ }
+ .btn.btn-outline-secondary{
+     font-weight: 600;
+     color: rgb(226, 99, 8);
+ }
+ .rowtop{
+     background-image: url(https://lh3.googleusercontent.com/6BWX6p8oq-Me8jIkNsViT6BYYOcvpzKc9gwcLsJ1PxFpzhwtpHMKId4WzZZ8JMOvNw=w1200-h630-p-k-no-nu);
+    background-size:cover;
+     height: 300px;
+ }
+ .animation:hover{
+    transform:scale(1.05);
+ }
+ .card-body:hover{
+    color: rgb(240, 227, 87);
+ }
+.no-records-msg{
+    height: 100px;
+    text-align: center;
+    color: rgb(192, 38, 38);
+    font-size: 25px;
+    padding: 30px;
+    font-weight: 700;
+}
